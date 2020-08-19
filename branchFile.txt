@@ -1,0 +1,902 @@
+from Fariaclara16 to All Participants:
+yes
+from Tusar.panigrahi1 to All Participants:
+and copy the binary path 
+from Gopinath S to All Participants:
+yupp
+from Abhishek Pratap Singh to All Participants:
+ok
+from Azmatrana to All Participants:
+yes
+from Tusar.panigrahi1 to All Participants:
+right ?
+from Ritesh Nagar to All Participants:
+yes, its good to understand first.
+from Tusar.panigrahi1 to All Participants:
+s
+from Fariaclara16 to All Participants:
+yes
+from Azmatrana to All Participants:
+yes
+from harvindersingh to All Participants:
+s
+from Balanagarajan Ganesan to All Participants:
+Yes
+from Rohit Chawla to All Participants:
+s
+from Vaishali Walia to All Participants:
+yes
+from Fariaclara16 to All Participants:
+https://drive.google.com/uc?id=19Rq8IzLlYEEk8FfDHg_JnSWZszc7m1kr&export=download
+
+from Vairavan Dhanalakshmi to All Participants:
+thx
+from Azmatrana to All Participants:
+https://drive.google.com/uc?id=19Rq8IzLlYEEk8FfDHg_JnSWZszc7m1kr&export=download
+from Azmatrana to All Participants:
+yes
+from harvindersingh to All Participants:
+y
+from Fariaclara16 to All Participants:
+yes
+from Tusar.panigrahi1 to All Participants:
+yes
+from Ritesh Nagar to All Participants:
+yes
+from Balanagarajan Ganesan to All Participants:
+s
+from Azmatrana to All Participants:
+yes
+from MadhaviLathaK MadhaviLatha to All Participants:
+yes
+from Gopalakrishnan GN to All Participants:
+no
+from Gopinath S to All Participants:
+yes
+from Tusar.panigrahi1 to All Participants:
+same concept of local DNS
+from Tusar.panigrahi1 to All Participants:
+s
+from Sanjeev Dutt to All Participants:
+dump
+from Azmatrana to All Participants:
+dump
+from Gopalakrishnan GN to All Participants:
+dump
+from Gopalakrishnan GN to All Participants:
+means lib/variables
+from Gopalakrishnan GN to All Participants:
+what will be dependency 
+from Tusar.panigrahi1 to All Participants:
+but its required both repo in sync
+from Gopalakrishnan GN to All Participants:
+can you give real time example
+from Gopalakrishnan GN to All Participants:
+can i speak
+from Tusar.panigrahi1 to All Participants:
+yes
+from Gopalakrishnan GN to All Participants:
+srini concept is important
+from Tusar.panigrahi1 to All Participants:
+correct
+from Gopalakrishnan GN to All Participants:
+ive already typed
+from Gopalakrishnan GN to All Participants:
+so what wil be. in central repo
+from Ritesh Nagar to All Participants:
+Yes
+from Vaishali Walia to All Participants:
+yes
+from Azmatrana to All Participants:
+yes
+from Sanjeev Dutt to All Participants:
+yes
+from harvindersingh to All Participants:
+y
+from Fariaclara16 to All Participants:
+yes
+from Balanagarajan Ganesan to All Participants:
+yes
+from safia hirari to All Participants:
+clear
+from Makrand Patil to All Participants:
+yes
+from hiralalnachwani@gmail.com to All Participants:
+Yes
+from Tusar.panigrahi1 to All Participants:
+s
+from safia hirari to All Participants:
+clear
+from chaitanyadileep to All Attendees:
+yes
+from Rohit Chawla to All Participants:
+If the question is very much related tot he topic that u r teaching and have already covered that concept then it's fine to help clarify the doubts/questions. If its unrelated or coming later, you can tell that i will be covering later 
+from safia hirari to All Participants:
+clear
+from Rohit Chawla to All Participants:
+yes, first explaina nd then take question related tot hat
+from Gopalakrishnan GN to All Participants:
+k
+from Anil Reddy to All Participants:
+Hi Srni, pls continue
+from Srini . to All Participants:
+https://github.com/SrikanthPB/mavenwebhook
+from Tusar.panigrahi1 to All Participants:
+done
+from Rohit Chawla to All Participants:
+should we clone or download?
+from Vaishali Walia to All Participants:
+done
+from Azmatrana to All Participants:
+done
+from Palsuresh77 to All Participants:
+don
+from Gopinath S to All Participants:
+done
+from Rohit Chawla to All Participants:
+ok
+from Vairavan Dhanalakshmi to All Participants:
+done
+from Dinuuu77 to All Participants:
+Done
+from Lk.maiti to All Participants:
+done
+from surekha D to All Participants:
+done
+from batekrushna to All Participants:
+done 
+from KUNJ JAIN to All Participants:
+done
+from Tusar.panigrahi1 to All Participants:
+is it maven webook_master , Correct SRINI
+from Ritesh Nagar to All Participants:
+done
+from Tusar.panigrahi1 to All Participants:
+ok
+from hiralalnachwani@gmail.com to All Participants:
+done
+from harvindersingh to All Participants:
+done
+from Sanjeev Dutt to All Participants:
+done
+from Tusar.panigrahi1 to All Participants:
+yes done
+from Gopalakrishnan GN to All Participants:
+done
+from Rohit Chawla to All Participants:
+done
+from Vaishali Walia to All Participants:
+done 
+from Balanagarajan Ganesan to All Participants:
+done
+from Makrand Patil to All Participants:
+done
+from Srini . to All Participants:
+https://github.com/SrikanthPB/mavenwebhook
+from Lokesh.chikkala28 to All Participants:
+done
+from Rohit Chawla to All Participants:
+nice
+from Lokesh.chikkala28 to All Participants:
+yes
+from Fariaclara16 to All Participants:
+yes
+from safia hirari to All Participants:
+yes
+from Azmatrana to All Participants:
+yes
+from Fariaclara16 to All Participants:
+yes
+from Vaishali Walia to All Participants:
+yes
+from safia hirari to All Participants:
+yes
+from Balanagarajan Ganesan to All Participants:
+yes
+from safia hirari to All Participants:
+clear
+from Tusar.panigrahi1 to All Participants:
+is this pre-dfined or user need to write this code
+from Tusar.panigrahi1 to All Participants:
+ok
+from Tusar.panigrahi1 to All Participants:
+s
+from Azmatrana to All Participants:
+where do we get this pom.xml for different projects
+from Fariaclara16 to All Participants:
+yes
+from Azmatrana to All Participants:
+ok
+from Azmatrana to All Participants:
+fine
+from Azmatrana to All Participants:
+sure...its fine
+from Gopinath S to All Participants:
+yes
+from Fariaclara16 to All Participants:
+yes
+from Vaishali Walia to All Participants:
+yes
+from Tusar.panigrahi1 to All Participants:
+installation done, it has lots of dependancy seems 
+from MadhaviLathaK to All Participants:
+could you please move chat little side
+from harvindersingh to All Participants:
+build success
+from Gopalakrishnan GN to All Participants:
+done
+from Ritesh Nagar to All Participants:
+I have give this command and its downloading multiple dependencies progress.
+from Fariaclara16 to All Participants:
+yes
+from harvindersingh to All Participants:
+y
+from MadhaviLathaK to All Participants:
+yes
+from Tusar.panigrahi1 to All Participants:
+s
+from Sanjeev Dutt to All Participants:
+yes
+from Ritesh Nagar to All Participants:
+yes
+from Gopinath S to All Participants:
+yes
+from Rohit Chawla to All Participants:
+It's downloading lot of files for me as well
+from Ritesh Nagar to All Participants:
+now its Build success.
+from Azmatrana to All Participants:
+for me its Build failure
+from Balanagarajan Ganesan to All Participants:
+Saying as Build and compilation Failure
+from KUNJ JAIN to All Participants:
+I am getting build failure
+from Tusar.panigrahi1 to All Participants:
+go to perticular Location where u extract 
+from Balanagarajan Ganesan to All Participants:
+ok
+from Azmatrana to All Participants:
+ok
+from harvindersingh to All Participants:
+y
+from Vaishali Walia to All Participants:
+yes
+from Fariaclara16 to All Participants:
+yes
+from chaitanyadileep to All Attendees:
+yes
+from Azmatrana to All Participants:
+yes
+from Tusar.panigrahi1 to All Participants:
+yes
+from Ritesh Nagar to All Participants:
+Yes
+from Azmatrana to All Participants:
+no
+from Vaishali Walia to All Participants:
+for me also build failure, will look after your explanation
+from Vaishali Walia to All Participants:
+yes
+from Tusar.panigrahi1 to All Participants:
+yes
+from Lk.maiti to All Participants:
+yes
+from Rohit Chawla to All Participants:
+yes
+from Tusar.panigrahi1 to All Participants:
+plz
+from Rohit Chawla to All Participants:
+u already ahve them on ur local
+from Azmatrana to All Participants:
+ok
+from Azmatrana to All Participants:
+yes
+from Fariaclara16 to All Participants:
+yes
+from Makrand Patil to All Participants:
+yes
+from harvindersingh to All Participants:
+y
+from Srini . to All Participants:
+C:\Users\srika\.m2
+from Rohit Chawla to All Participants:
+mine is 8.2 mb
+from Tusar.panigrahi1 to All Participants:
+mine is 11.2 mb
+from Ritesh Nagar to All Participants:
+it showing11.7 MB repository.
+from Rohit Chawla to All Participants:
+yes
+from Raja Anil Jala to All Participants:
+can you please sahre size of central Repo
+from Raja Anil Jala to All Participants:
+Share*
+from Tusar.panigrahi1 to All Participants:
+deleted 
+from Tusar.panigrahi1 to All Participants:
+Srini , i Observed , for u more file but for me its less
+from Tusar.panigrahi1 to All Participants:
+why 
+from Srini . to All Participants:
+https://github.com/SrikanthPB/mavenwebhook
+from Raja Anil Jala to All Participants:
+ok this is my first class Srini
+from Tusar.panigrahi1 to All Participants:
+s
+from Ritesh Nagar to All Participants:
+which file you delete, I missed as I was on other screen, sorry to ask you again.
+from Tusar.panigrahi1 to All Participants:
+repositary
+from Ritesh Nagar to All Participants:
+all files
+from Tusar.panigrahi1 to All Participants:
+ys
+from Ritesh Nagar to All Participants:
+ok thanks
+from harvindersingh to All Participants:
+no
+from Tusar.panigrahi1 to All Participants:
+nop
+from Lokesh.chikkala28 to All Participants:
+no files in my folder
+from Lokesh.chikkala28 to All Participants:
+yes.tough to keep track of so many files
+from Tusar.panigrahi1 to All Participants:
+but here srini , one question if any new file entertain in remore tepo, do we need to sync it to get that feature active ?
+from Tusar.panigrahi1 to All Participants:
+ok
+from Tusar.panigrahi1 to All Participants:
+git fetch and git pull
+from Tusar.panigrahi1 to All Participants:
+okay
+from Tusar.panigrahi1 to All Participants:
+ok okay
+from Tusar.panigrahi1 to All Participants:
+yes
+from Fariaclara16 to All Participants:
+yes
+from Tusar.panigrahi1 to All Participants:
+s
+from Azmatrana to All Participants:
+yes
+from Lokesh.chikkala28 to All Participants:
+mvm install is still in progress
+from Makrand Patil to All Participants:
+yes
+from Sanjeev Dutt to All Participants:
+yes
+from MadhaviLathaK to All Participants:
+yes
+from Ritesh Nagar to All Participants:
+yes
+from Tusar.panigrahi1 to All Participants:
+nice to know srini , thanks ..
+from Rohit Chawla to All Participants:
+While we are on it, Can you touch again on why we use Maven with some use cases?
+from Palsuresh77 to All Participants:
+'mvn' is not recognized as an internal or external command,
+operable program or batch file.
+
+from Palsuresh77 to All Participants:
+ok
+from Tusar.panigrahi1 to All Participants:
+open in new termial 
+from Tusar.panigrahi1 to All Participants:
+and try 
+from Ritesh Nagar to All Participants:
+Yes
+from Tusar.panigrahi1 to All Participants:
+if u put the correct path on envionment variable
+from Gopalakrishnan GN to All Participants:
+use ; in adding path 
+from Vairavan Dhanalakshmi to All Participants:
+yes
+from Vaishali Walia to All Participants:
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  25.621 s
+[INFO] Finished at: 2020-08-08T06:00:40+02:00
+[INFO] ------------------------------------------------------------------------
+[ERROR] Plugin org.apache.maven.plugins:maven-compiler-plugin:2.3.2 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-compiler-plugin:jar:2.3.2: Could not transfer artifact org.apache.maven.plugins:maven-compiler-plugin:pom:2.3.2 from/to central (https://artifactory.verifone.com/artifactory/rd-repositories): artifactory.verifone.com: Unknown host artifactory.verifone.com -> [Help 1]
+[ERROR]
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR]
+[ERROR] For more informati
+from Vaishali Walia to All Participants:
+for me this error
+from Vaishali Walia to All Participants:
+sure
+from Fariaclara16 to All Participants:
+yes
+from Azmatrana to All Participants:
+yes
+from Azmatrana to All Participants:
+now it will install at your end
+from Tusar.panigrahi1 to All Participants:
+its downloading seems 
+from Tusar.panigrahi1 to All Participants:
+earlier its not
+from Gopalakrishnan GN to All Participants:
+i belive now it will pull depedency from server
+from Tusar.panigrahi1 to All Participants:
+understand teh connecpt now 
+from Tusar.panigrahi1 to All Participants:
+why u asking dlownloading ..?
+from Rohit Chawla to All Participants:
+since it will take a while, can u help resolve ppl's error.
+from Tusar.panigrahi1 to All Participants:
+yes got it
+from Tusar.panigrahi1 to All Participants:
+bcoz local not have file
+from Gopalakrishnan GN to All Participants:
+no dependency in local
+from Rohit Chawla to All Participants:
+i have compilation error due to java path it seems
+from Azmatrana to All Participants:
+there is no local repo
+from harvindersingh to All Participants:
+if i have a dependency in pom file that is dependent on other dependency, that will be downloaded  automatically..am i right?
+from Tusar.panigrahi1 to All Participants:
+done 
+from Makrand Patil to All Participants:
+yes
+from Sanjeev Dutt to All Participants:
+yes
+from Tusar.panigrahi1 to All Participants:
+s
+from Vaishali Walia to All Participants:
+yes
+from safia hirari to All Participants:
+done 
+from safia hirari to All Participants:
+the same
+from Gopalakrishnan GN to All Participants:
+yes
+from Tusar.panigrahi1 to All Participants:
+SRINI , from wher u found this POM.xml
+from Lokesh.chikkala28 to All Participants:
+downloading
+from Tusar.panigrahi1 to All Participants:
+file
+from Gopalakrishnan GN to All Participants:
+means those dependencies are headers
+from Tusar.panigrahi1 to All Participants:
+s
+from Lokesh.chikkala28 to All Participants:
+yes
+from Azmatrana to All Participants:
+yes
+from Gopalakrishnan GN to All Participants:
+got it
+from Gopinath S to All Participants:
+yess
+from Fariaclara16 to All Participants:
+yes
+from Rohit Chawla to All Participants:
+[INFO] Compiling 1 source file to C:\RSA\Training & Learning\Trainings\Google-drive-for-simplilearn-batch\mavenwebhook-master\target\classes
+[INFO] -------------------------------------------------------------
+[ERROR] COMPILATION ERROR :
+[INFO] -------------------------------------------------------------
+[ERROR] Unable to locate the Javac Compiler in:
+  C:\Program Files\Java\jre1.8.0_161\..\lib\tools.jar
+from Palsuresh77 to All Participants:
+Srini... When you installed MVN ... this on morning or last week classes
+from Tusar.panigrahi1 to All Participants:
+how to chk MVN is installed or not for a unknown system ? 
+from Gopalakrishnan GN to All Participants:
+do we need to download eclipse also
+from Lokesh.chikkala28 to All Participants:
+compilation failure
+from Raja Anil Jala to All Participants:
+can you let us known whether it is good proctice to download maven for each time deployment while performing PROD activity Build and deploy
+from Lokesh.chikkala28 to All Participants:
+unable to locate the Javac Compiler
+from Palsuresh77 to All Participants:
+How do i check mvn istalled or not?
+from Palsuresh77 to All Participants:
+yes
+from Tusar.panigrahi1 to All Participants:
+how to chk MVN is installed or not for a unknown system ? 
+from Palsuresh77 to All Participants:
+i did that process
+from Tusar.panigrahi1 to All Participants:
+correct .. 
+from safia hirari to All Participants:
+when you build your project
+from Palsuresh77 to All Participants:
+I have set the path but is there set for mvn
+from Palsuresh77 to All Participants:
+that is not  node
+from Tusar.panigrahi1 to All Participants:
+but ebven after set the path , mvn work , but what is the diff after install, just wanted to chk my setup is ready to use and 
+from Ritesh Nagar to All Participants:
+Build success and all folders are back to repository.
+from Tusar.panigrahi1 to All Participants:
+ok
+from Gopinath S to All Participants:
+yes
+from Gopalakrishnan GN to All Participants:
+yes
+from Raja Anil Jala to All Participants:
+for each build job will it install, or is it one time build
+from Anil Reddy to All Participants:
+pls exlplain what is eclipse
+from Raja Anil Jala to All Participants:
+what are other IDE tools?
+from Raja Anil Jala to All Participants:
+Jdev
+from Raja Anil Jala to All Participants:
+ok
+from Tusar.panigrahi1 to All Participants:
+oka
+from Fariaclara16 to All Participants:
+yes
+from Balanagarajan Ganesan to All Participants:
+yes
+from Anto.rajeeth.kumar to All Participants:
+yes
+from MadhaviLathaK to All Participants:
+yes
+from Azmatrana to All Participants:
+yes
+from Gopinath S to All Participants:
+yes
+from Tusar.panigrahi1 to All Participants:
+point in datacopy 
+from Tusar.panigrahi1 to All Participants:
+is snapshot
+from Gopalakrishnan GN to All Participants:
+s
+from Fariaclara16 to All Participants:
+yes
+from safia hirari to All Participants:
+yes
+from Ritesh Nagar to All Participants:
+Yes
+from Azmatrana to All Participants:
+yes
+from Tusar.panigrahi1 to All Participants:
+s
+from safia hirari to All Participants:
+clear
+from Lk.maiti to All Participants:
+y
+from Gopinath S to All Participants:
+yes
+from harvindersingh to All Participants:
+y
+from safia hirari to All Participants:
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>simpli</groupId>
+  <artifactId>com.simpli</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>jar</packaging>
+  <name>com.simpli</name>
+  <url>http://maven.apache.org</url>
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>3.8.1</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+</project>
+
+from Gopalakrishnan GN to All Participants:
+means wil this take dependency from local 
+from Azmatrana to All Participants:
+java complier error while building
+from Raja Anil Jala to All Participants:
+if i need to migrate from 11g to 12c SOA upgrade, how can i generate 
+from Raja Anil Jala to All Participants:
+i have 2 questions to you
+from Tusar.panigrahi1 to All Participants:
+its echo
+from Ritesh Nagar to All Participants:
+your voice is echo
+from Tusar.panigrahi1 to All Participants:
+s
+from Fariaclara16 to All Participants:
+yes
+from Gopinath S to All Participants:
+yes
+from harvindersingh to All Participants:
+y
+from safia hirari to All Participants:
+yes
+from Vairavan Dhanalakshmi to All Participants:
+s
+from Tusar.panigrahi1 to All Participants:
+s
+from Gopalakrishnan GN to All Participants:
+will all these automatic or the developers has to code it like. parent.pom 
+from Tusar.panigrahi1 to All Participants:
+its deffinitly need call function 
+from Gopalakrishnan GN to All Participants:
+will these versions we need to install like mvn install
+from Raja Anil Jala to All Participants:
+set you Envinorment variable on your machine
+from Azmatrana to All Participants:
+There may be two jre and jdk installed together
+from Azmatrana to All Participants:
+this was causing issue for me
+from Azmatrana to All Participants:
+yes
+from Ritesh Nagar to All Participants:
+yes
+from Ratnasuman.bellala to All Participants:
+jre
+from Azmatrana to All Participants:
+jre is installed
+from Gopalakrishnan GN to All Participants:
+jdk
+from Vaishali Walia to All Participants:
+jdk is not
+from Azmatrana to All Participants:
+jdk is not installed
+from Vaishali Walia to All Participants:
+there
+from Azmatrana to All Participants:
+first uninstall jre...otherwise it keeps picking jre path and mvn install will fail
+from Azmatrana to All Participants:
+yes
+from Anil Reddy to All Participants:
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:2.3.2:compile (default-compile) on project CounterWebApp: Compilation failure
+[ERROR] Unable to locate the Javac Compiler in:
+[ERROR]   C:\Program Files\Java\jre1.8.0_144\..\lib\tools.jar
+from Rohit Chawla to All Participants:
+[INFO] Compiling 1 source file to C:\RSA\Training & Learning\Trainings\Google-drive-for-simplilearn-batch\mavenwebhook-master\target\classes
+[INFO] -------------------------------------------------------------
+[ERROR] COMPILATION ERROR :
+[INFO] -------------------------------------------------------------
+[ERROR] Unable to locate the Javac Compiler in:
+  C:\Program Files\Java\jre1.8.0_161\..\lib\tools.jar
+from Rohit Chawla to All Participants:
+i have
+from Anil Reddy to All Participants:
+pls check this Srini
+from Vaishali Walia to All Participants:
+srini for my build failure, I think I need to set settings.xml to default one, then it will work. as I changed my local settings.xml recently 
+from Balanagarajan Ganesan to All Participants:
+I have same issue like lokesh, I have installed jdk and pointed jdk bin. java and javac command works, but still build fail
+from Rohit Chawla to All Participants:
++1
+from safia hirari to All Participants:
+clear
+from Tusar.panigrahi1 to All Participants:
+k
+from Fariaclara16 to All Participants:
+yes
+from Azmatrana to All Participants:
+yes
+from Ritesh Nagar to All Participants:
+yes, good point
+from Anil Reddy to All Participants:
+Hi Srini, pls help with this Build fai  error
+from Anil Reddy to All Participants:
+fail
+from Balanagarajan Ganesan to All Participants:
+Hi Can you hear me 
+from Balanagarajan Ganesan to All Participants:
+I can hear you
+from Rohit Chawla to All Participants:
+I need help resolving
+from Balanagarajan Ganesan to All Participants:
+ok
+from Rohit Chawla to All Participants:
+error
+from Tusar.panigrahi1 to All Participants:
+seems he has network issu
+from Balanagarajan Ganesan to All Participants:
+sure
+from Azmatrana to All Participants:
+jre is also installed on his machine
+from Azmatrana to All Participants:
+uninstall jre
+from Anto.rajeeth.kumar to All Participants:
+i faced this, after i set java_home it worked
+from Azmatrana to All Participants:
+yes even this will work
+from Tusar.panigrahi1 to All Participants:
+s
+from Balanagarajan Ganesan to All Participants:
+I had same issue after giving jdk home path it works
+from Balanagarajan Ganesan to All Participants:
+thanks
+from Lokesh.chikkala28 to All Participants:
+it worked for me srini
+from Tusar.panigrahi1 to All Participants:
+1st one
+from Tusar.panigrahi1 to All Participants:
+required
+from Tusar.panigrahi1 to All Participants:
+1st one has Maven too
+from Vaishali Walia to All Participants:
+Srini, where can I get default settings.xml for maven under .m2 folder... is pom.xml is same as settings.xml? 
+from Azmatrana to All Participants:
+1st one has Maven too
+from Vaishali Walia to All Participants:
+yes
+from Ritesh Nagar to All Participants:
+yes
+from Anto.rajeeth.kumar to All Participants:
+yes
+from Lk.maiti to All Participants:
+y
+from MadhaviLathaK to All Participants:
+yes
+from Azmatrana to All Participants:
+yes
+from Ravi Koli to All Participants:
+S
+from Azmatrana to All Participants:
+yes
+from Srini . to All Participants:
+C:\apache-maven-3.5.4-bin\apache-maven-3.5.4\conf\settings.xml
+from Vaishali Walia to All Participants:
+yes I have build failure
+from Azmatrana to All Participants:
+yes
+from Gopalakrishnan GN to All Participants:
+srini are we learning the concepts of maven
+from Gopalakrishnan GN to All Participants:
+not in depth
+from Gopalakrishnan GN to All Participants:
+ok
+from Ritesh Nagar to All Participants:
+Its good with asking questions with Participants will clear lots of new concepts
+from Gopalakrishnan GN to All Participants:
+means what a devops admin roles
+from Ritesh Nagar to All Participants:
+Your approach is awesome Srini
+from safia hirari to All Participants:
+where to specify the lifecycle phase eclipse? 
+from Azmatrana to All Participants:
+which archetype we have to select from Artifact Id?
+from safia hirari to All Participants:
+where to specify the lifecycle phase eclipse? 
+from Vaishali Walia to All Participants:
+now its downloading dependecies for me, and build is success, Thanks much Srini... :)
+from Rohit Chawla to All Participants:
+i have created simple maven project but not able to see anythign in pom.xml
+from Rohit Chawla to All Participants:
+ok
+from Rohit Chawla to All Participants:
+no worries
+from Vaishali Walia to All Participants:
+yes
+from Azmatrana to All Participants:
+ok
+from Ritesh Nagar to All Participants:
+yes
+from Tusar.panigrahi1 to All Participants:
+s
+from Fariaclara16 to All Participants:
+yes
+from Azmatrana to All Participants:
+yes
+from Sanjeev Dutt to All Participants:
+s
+from Ritesh Nagar to All Participants:
+yes
+from Rohit Chawla to All Participants:
+no unit test stage?
+from Rohit Chawla to All Participants:
+ok, sounds good
+from Gopalakrishnan GN to All Participants:
+s
+from Vaishali Walia to All Participants:
+yes
+from Rohit Chawla to All Participants:
+ok
+from Vaishali Walia to All Participants:
+.war created
+from Vaishali Walia to All Participants:
+yes
+from Fariaclara16 to All Participants:
+yes
+from Ravi Koli to All Participants:
+S
+from Anto.rajeeth.kumar to All Participants:
+yes
+from MadhaviLathaK to All Participants:
+yes
+from Ritesh Nagar to All Participants:
+yes
+from Ravi Koli to All Participants:
+S
+from Tusar.panigrahi1 to All Participants:
+can we create a dummy test case 
+from Fariaclara16 to All Participants:
+yes
+from Tusar.panigrahi1 to All Participants:
+and c
+from Azmatrana to All Participants:
+yes
+from Makrand Patil to All Participants:
+Yes
+from MadhaviLathaK to All Participants:
+yes
+from Vaishali Walia to All Participants:
+yes :D
+from Ravi Koli to All Participants:
+S
+from Gopalakrishnan GN to All Participants:
+s
+from Ritesh Nagar to All Participants:
+yes
+from Lokesh.chikkala28 to All Participants:
+please show pom file
+from Raja Anil Jala to All Participants:
+can you please walk through .seeting , src folder
+from Tusar.panigrahi1 to All Participants:
+what are the question comes 
+from Tusar.panigrahi1 to All Participants:
+on interview 
+from Lokesh.chikkala28 to All Participants:
+where you have changed to var in pom file
+from Raja Anil Jala to All Participants:
+ok source code
+from Raja Anil Jala to All Participants:
+ok thanks
+from Fariaclara16 to All Participants:
+yes
+from Tusar.panigrahi1 to All Participants:
+s
+from Fariaclara16 to All Participants:
+poll done
+from Azmatrana to All Participants:
+yes
+from Ritesh Nagar to All Participants:
+yes done
+from Ravi Koli to All Participants:
+got
+from Vaishali Walia to All Participants:
+yes done with poll
+from Tusar.panigrahi1 to All Participants:
+can u gave us few hints on interview questions , 
+from Makrand Patil to All Participants:
+can you please paste mvn goal commands here
+from Makrand Patil to All Participants:
+?
+from Srini . to All Participants:
+mvn compile
+mvn clean
+mvn package 
+mvn install 
+from Gopalakrishnan GN to All Participants:
+what time we can compile back srini :)
+from Vaishali Walia to All Participants:
+is this the sequence we have to follow
+from Ritesh Nagar to All Participants:
+yes
+from Azmatrana to All Participants:
+yes
+from Anil Reddy to All Participants:
+HI Rohit
+from Rohit Chawla to All Participants:
+hey Anil
+from Anil Reddy to All Participants:
+did you install Eclipse?
+from Rohit Chawla to All Participants:
+was up?
+from Rohit Chawla to All Participants:
+yes i did
+from Anil Reddy to All Participants:
+which one did you seelct?
+from Rohit Chawla to All Participants:
+second option
+from Rohit Chawla to All Participants:
+that contains maven as well
+from Anil Reddy to All Participants:
+ok cool
+from Anil Reddy to All Participants:
+THanks
