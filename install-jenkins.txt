@@ -1,0 +1,12 @@
+
+1)sudo apt install default-jdk  
+
+2) wget -q -O - https://pkg.jenkins.io/debian/jenkins-ci.org.key | sudo apt-key add -
+
+3) sudo sh -c 'echo deb http://pkg.jenkins.io/debian-stable binary/ > /etc/apt/sources.list.d/jenkins.list'
+
+4) sudo apt-get update
+
+5) sudo apt-get install jenkins
+
+ipaddress:8080
